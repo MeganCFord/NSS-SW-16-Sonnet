@@ -28,7 +28,7 @@ cd 16-sonnet
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-16-Sonnet)
 
 
 ![screenshot](sonnet-screenshot.jpg)
